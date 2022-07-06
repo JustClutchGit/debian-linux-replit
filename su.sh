@@ -1,8 +1,8 @@
-echo "===================================="
+echo "==========================================="
 echo "GitHub repo created by JustClutch."
-echo "Original by akuh."
-echo "Please Wait"
-echo "===================================="
+echo "Credits to script creator in credits.txt"
+echo "Fetching dependencies..."
+echo "==========================================="
 wget -O akuh.zip https://media.githubusercontent.com/media/akuhnet/wqemu/master/akuh.zip
 unzip akuh.zip
 unzip root.zip
