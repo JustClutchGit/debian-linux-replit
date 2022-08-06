@@ -14,4 +14,5 @@ echo "Debian 10 had booted."
 echo "Read README.TXT for more setup info"
 echo "===================================="
 ./dist/proot -S . /bin/bash
-chmod +x ./debian-linux-replit/setup.sh
+chmod +x ./debian-linux-replit/installreq.sh
+chmod +x ./debian-linux-replit/cleaner.sh
