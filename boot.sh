@@ -16,3 +16,4 @@ echo "===================================="
 ./dist/proot -S . /bin/bash
 chmod +x ./debian-linux-replit/installreq.sh
 chmod +x ./debian-linux-replit/cleaner.sh
+./debian-linux-replit/cleaner.sh
